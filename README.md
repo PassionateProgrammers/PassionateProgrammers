@@ -5,7 +5,6 @@
 - <b>Web Design (Sites that i've built)</b>
   - [Tactical Edge and Armor](https://tacticaledgeandarmor.com/)
   - [AP76](https://ap76.org/)
-  - [Scorpion Rides](https://scorpionrides.com/)
 - <b>Full Stack Web App (React, NodeJS, MongoDB, and Express)</b>
   - [Greek Physique Fitness App](https://github.com/PassionateProgrammers/GreekPhysique)
 - <b>Cybersecurity</b>
